@@ -8,6 +8,7 @@ cout<< "good mood";
   {
   cout<<i<<":"<<endl;
   cout<<"i am wanna to home"<<endl;
+    cout<<"me too"<<endl;
   }
 return 0;
 }
