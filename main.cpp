@@ -6,7 +6,8 @@ cout << "bye" << endl;
 cout<< "good mood";
   for (int i=0; i<5;i++)
   {
-  cout<<"la-la"<<endl;
+  cout<<i<<":"<<endl;
+  cout<<"i am wanna to home"<<endl;
   }
 return 0;
 }
