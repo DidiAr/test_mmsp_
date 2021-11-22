@@ -2,6 +2,7 @@
 using namespace std
 int main(){
 cout<<"hello"<<endl;
+cout<<"seeeeks"<<endl;
 cout << "bye" << endl;
 cout<< "good mood";
   for (int i=0; i<5;i++)
