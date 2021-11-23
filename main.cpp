@@ -5,5 +5,6 @@ int main(){
 cout<<"hello"<<endl;
 cout << "jgjsvbjkd" << endl;
 cout<<"123456789";
+cout<<"bye"
 return 0;
 }
